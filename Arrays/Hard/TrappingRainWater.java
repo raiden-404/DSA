@@ -1,3 +1,4 @@
+package Hard;
 class Solution {
     /**
      * 42. Trapping Rain Water
