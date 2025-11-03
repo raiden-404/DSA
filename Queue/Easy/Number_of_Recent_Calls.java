@@ -11,6 +11,10 @@
  * The provided solution uses an explicit `count` variable, though returning `queue.size()`
  * at the end of the `ping` method would achieve the same result more directly.
  */
+
+ import java.util.Deque;
+ import java.util.ArrayDeque;
+
 class RecentCounter {
     
     // A queue to store the timestamps of the ping requests in chronological order.
