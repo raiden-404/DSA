@@ -1,0 +1,51 @@
+14th Oct - med(12), med(15), med(16), med(17), med(18)
+
+15th Oct - med(22), med(24), med(29)
+
+16th Oct - med(31), med(33), med(34), med(36)
+
+17th Oct - Miss(1) xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+18th Oct - Miss(2) xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+19th Oct - Miss(3) xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+20th Oct - easy(121), med(238), med(48)
+
+21th Oct - med(54)
+
+22th Oct - easy(283), hard(42), hard(41)
+
+23th Oct - easy(125), easy(345), med(49), med(5), med(71), med(43)
+
+24th Oct - med(151), hard(68)
+
+25th Oct - easy(242)
+
+26th Oct - Miss(4) xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+27th Oct - easy(206), easy(21), easy(141), med(19), med(2), med(138), med(876)
+
+28th Oct - med(143)
+
+29th Oct - easy(234), hard(25), med(142), hard(23)
+
+30th Oct - easy(496), easy(844), easy(225)
+
+31th Oct - Miss(5) xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1st Nov - med(150), med(155), med(739), med(394)
+
+2nd Nov - med(1209), hard(84), hard(42), med(2257)
+
+3rd Nov - easy(232), easy(933), easy(346), easy(1700), med(1578), easy(2073), med(3217), med(200), 	  med(994)
+
+4th Nov -  med(841), easy(463)
+
+5th Nov - Miss(6) xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+6th Nov - med(542), med(909)
+
+7th Nov - easy(387)
+
+8th Nov - 
