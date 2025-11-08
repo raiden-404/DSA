@@ -48,4 +48,6 @@
 
 7th Nov - easy(387)
 
-8th Nov - 
+8th Nov - med(950), hard(239)
+
+Ques. remains :- 862.SSWSALK
