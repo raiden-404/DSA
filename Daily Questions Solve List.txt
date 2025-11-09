@@ -50,7 +50,7 @@
 
 8th Nov - med(950), hard(239)
 
-9th Nov - hard(862), easy(2169), easy(1), easy(217), easy(169), med(128)
+9th Nov - hard(862), easy(2169), easy(1), easy(217), easy(169), med(128), med(454)
 
 
 
@@ -70,7 +70,6 @@ Remaining Question----
 
 3. Longest Substring Without Repeating Characters
 560. Subarray Sum Equals K
-454. 4Sum II
 13. Roman to Integer
 146. LRU Cache
 347. Top K Frequent Elements
