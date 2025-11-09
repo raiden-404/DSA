@@ -50,7 +50,7 @@
 
 8th Nov - med(950), hard(239)
 
-9th Nov - hard(862), easy(2169), easy(1), easy(217), easy(169)
+9th Nov - hard(862), easy(2169), easy(1), easy(217), easy(169), med(128)
 
 
 
@@ -69,7 +69,6 @@ Remaining Question----
 - Medium Problems
 
 3. Longest Substring Without Repeating Characters
-128. Longest Consecutive Sequence
 560. Subarray Sum Equals K
 454. 4Sum II
 13. Roman to Integer
