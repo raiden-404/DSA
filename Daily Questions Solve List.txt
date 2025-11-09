@@ -50,7 +50,7 @@
 
 8th Nov - med(950), hard(239)
 
-9th Nov - hard(862), easy(2169)
+9th Nov - hard(862), easy(2169), easy(1)
 
 
 
@@ -59,7 +59,6 @@ Remaining Question----
 
 - Easy
 
-1. Two Sum
 217. Contains Duplicate
 242. Valid Anagram
 169. Majority Element
