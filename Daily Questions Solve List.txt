@@ -52,14 +52,13 @@
 
 9th Nov - hard(862), easy(2169), easy(1), easy(217), easy(169), med(128), med(454)
 
-
+10th Nov - easy(202)
 
 -------------------------------
 Remaining Question----
 
 - Easy
 
-202. Happy Number
 290. Word Pattern
 387. First Unique Character in a String
 599. Minimum Index Sum of Two Lists
