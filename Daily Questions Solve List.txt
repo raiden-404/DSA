@@ -52,7 +52,7 @@
 
 9th Nov - hard(862), easy(2169), easy(1), easy(217), easy(169), med(128), med(454)
 
-10th Nov - easy(202), easy(290)
+10th Nov - easy(202), easy(290), med(347)
 
 -------------------------------
 Remaining Question----
@@ -70,7 +70,6 @@ Remaining Question----
 560. Subarray Sum Equals K
 13. Roman to Integer
 146. LRU Cache
-347. Top K Frequent Elements
 974. Subarray Sums Divisible by K
 
 - Hard Problems
