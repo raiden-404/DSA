@@ -54,7 +54,7 @@
 
 10th Nov - easy(202), easy(290), med(347), easy(3740)
 
-11th Nov - easy(771)
+11th Nov - easy(771), med(974), med(560)
 
 -------------------------------
 Remaining Question----
@@ -68,10 +68,8 @@ Remaining Question----
 - Medium Problems
 
 3. Longest Substring Without Repeating Characters
-560. Subarray Sum Equals K
 13. Roman to Integer
 146. LRU Cache
-974. Subarray Sums Divisible by K
 
 - Hard Problems
 76. Minimum Window Substring
