@@ -52,7 +52,7 @@
 
 9th Nov - hard(862), easy(2169), easy(1), easy(217), easy(169), med(128), med(454)
 
-10th Nov - easy(202), easy(290), med(347)
+10th Nov - easy(202), easy(290), med(347), easy(3740)
 
 -------------------------------
 Remaining Question----
