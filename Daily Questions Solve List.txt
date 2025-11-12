@@ -56,7 +56,7 @@
 
 11th Nov - easy(771), med(974), med(560)
 
-12th Nov - easy(599)
+12th Nov - easy(599), easy(111), easy(112), easy(118), easy(119), easy(136)
 
 -------------------------------
 Remaining Question----
