@@ -58,6 +58,8 @@
 
 12th Nov - easy(599), easy(111), easy(112), easy(118), easy(119), easy(136)
 
+13th Nov - easy(144)
+
 -------------------------------
 Remaining Question----
 
