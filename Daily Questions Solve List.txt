@@ -60,7 +60,7 @@
 
 13th Nov - easy(144), easy(145), easy(160)
 
-14th Nov - med(2536), easy(1160)
+14th Nov - med(2536), easy(1160), hard(149)
 
 -------------------------------
 Remaining Question----
@@ -74,6 +74,5 @@ Remaining Question----
 - Hard Problems
 76. Minimum Window Substring
 30. Substring with Concatenation of All Words
-149. Max Points on a Line
 438. Find All Anagrams in a String
 447. Number of Boomerangs
