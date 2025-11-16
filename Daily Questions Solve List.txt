@@ -60,7 +60,7 @@
 
 13th Nov - easy(144), easy(145), easy(160)
 
-14th Nov - med(2536), easy(1160), hard(149)
+14th Nov - med(2536), easy(1160), hard(149) 
 
 -------------------------------
 Remaining Question----
