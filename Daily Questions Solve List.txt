@@ -68,7 +68,7 @@
 
 17 Nov - Miss(9)
 
-18 Nov - easy(717), easy(1437)
+18 Nov - easy(717), easy(1437), med(146)
 
 -------------------------------
 Remaining Question----
@@ -77,7 +77,6 @@ Remaining Question----
 
 3. Longest Substring Without Repeating Characters
 13. Roman to Integer
-146. LRU Cache 
 
 - Hard Problems
 76. Minimum Window Substring
