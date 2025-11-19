@@ -70,6 +70,8 @@
 
 18 Nov - easy(717), easy(1437), med(146)
 
+19 Nov - easy(2154)
+
 -------------------------------
 Remaining Question----
 
