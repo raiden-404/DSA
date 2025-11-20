@@ -66,11 +66,13 @@
 
 16th Nov - Miss(8)
 
-17 Nov - Miss(9)
+17th Nov - Miss(9)
 
-18 Nov - easy(717), easy(1437), med(146)
+18th Nov - easy(717), easy(1437), med(146)
+ 
+19th Nov - easy(2154), med(447), easy(168), easy(171)
 
-19 Nov - easy(2154), med(447), easy(168), easy(171), easy(175)
+20th Nov - easy(175)
 
 -------------------------------
 Remaining Question----
