@@ -74,7 +74,7 @@
 
 20th Nov - easy(175), easy(181), easy(231)
 
-21th Nov - med(1930), easy(226)
+21th Nov - med(1930), easy(226), easy(344)
 
 -------------------------------
 Remaining Question----
