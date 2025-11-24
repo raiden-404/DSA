@@ -78,6 +78,9 @@
 
 22th Nov - easy(3190)
 
+23th Nov - easy(268)
+
+24th Nov - easy(1018)
 -------------------------------
 Remaining Question----
 
