@@ -82,7 +82,7 @@
 
 24th Nov - easy(1018)
 
-25th Nov - med(1015)
+25th Nov - med(1015), easy(349)
 -------------------------------
 Remaining Question----
 
