@@ -39,3 +39,9 @@ class Solution {
         return n == 1;
     }
 }
+/*
+ * LeetCode Problem 263: Ugly Number
+ * * An "Ugly Number" is a positive integer whose prime factors are limited to 2, 3, and 5.
+ * The logic is to repeatedly divide the number by these allowable factors until 
+ * they are completely removed. If the final result is 1, the number was "Ugly".
+ */
