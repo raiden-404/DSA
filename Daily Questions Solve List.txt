@@ -122,7 +122,7 @@
 
 14th Dec - easy(263)
 
-15th Dec - med(2110)
+15th Dec - med(2110), easy(414)
 
 ------------------------------- 
 Remaining Question----
