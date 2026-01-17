@@ -64,4 +64,4 @@ class Solution {
         
         return side * side;
     }
-}
+} 
