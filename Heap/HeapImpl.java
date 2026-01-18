@@ -67,7 +67,7 @@ class MaxHeap {
         }
     }
 }
-
+ 
 public class HeapImpl {
     public static void main(String[] args) {
         MaxHeap mh = new MaxHeap();
